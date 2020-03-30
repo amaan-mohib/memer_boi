@@ -8,7 +8,7 @@ import io
 import aiohttp
 import random
 
-TOKEN='Njk0MDg1MTkzNjAyMDM5ODYy.XoGf7A.Ixkl17XCkEXfqC69ptpF7dGNs1s'
+TOKEN='Njk0MDg1MTkzNjAyMDM5ODYy.XoID8Q.BW8iqVY_S1ReyrLy9X37NCugpIM'
 
 client=discord.Client()
 
