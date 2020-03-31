@@ -1,1 +1,1 @@
-worker: py memer-boi.py
+worker: python memer-boi.py
