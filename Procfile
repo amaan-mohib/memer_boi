@@ -1,1 +1,1 @@
-worker: python memer-boi.py
+worker: python bot.py
