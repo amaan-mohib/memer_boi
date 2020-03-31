@@ -5,7 +5,7 @@ from discord.ext import commands
 from discord.ext.commands import Bot
 import random
 
-TOKEN='Njk0MDg1MTkzNjAyMDM5ODYy.XoLZyg.L3gzpZ1-A2KpUazBH_-D_AGvHRg'
+TOKEN='Njk0MDg1MTkzNjAyMDM5ODYy.XoL3zQ.PTgqF48ARA329VWLyredgWnzXIs'
 
 client=discord.Client()
 
